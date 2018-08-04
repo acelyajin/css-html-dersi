@@ -1,0 +1,39 @@
+.alan {
+	background-color: pink; /*arkaplan rengini değiştirir*/
+	width: 1335px; /*genişliği değiştirir*/
+	font-size:16px; /* yazıların büyüklüğünü değiştirir*/
+	color: blue; /* yazıların rengini değiştirir*/
+	overflow: hidden;
+ }
+ .yenialan {
+     background-color: lightblue;
+     height: 100px; /* yüksekliği değiştirir */
+     color: purple;
+ }
+
+ h1#baslik {
+ 	color: purple; /* başlığın rengini değiştirir */
+ }
+
+ a.link {
+ 	color: orange;
+ }
+
+ p#paragraf {
+ 	font-weight: bold;
+ }
+
+ul#liste {
+	list-style: none;
+}
+
+li.madde {
+	float: left;
+	margin: 10px
+}
+.tabloalani {
+	background-color: yellow;
+	color:black;
+	overflow: hidden;
+}
+

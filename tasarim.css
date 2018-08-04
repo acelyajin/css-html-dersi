@@ -1,0 +1,42 @@
+img#logo {
+	margin-top: 200px;
+}
+
+input.yazialani {
+	width: 480px; /* genişlik */
+	height: 30px; /* yükseklik */
+	padding-left: 10px;
+}
+#buttonalani{
+	width: 120px;
+	height: 35px;
+	margin-top: 10px;
+
+}
+#buttonalani1{
+	width: 250px;
+	height: 35px;
+	margin-top: 10px;
+
+}
+a{
+	text-decoration: none;
+	text-align-last: none;
+}
+ button.buton {
+ 	padding: 5px;
+ 	font-weight: bold;
+ 	background: lightgrey;
+ 	border-radius: 8px;
+ }
+
+.copyright {
+	height: 25px;
+	margin-top: 279px;
+	background-color: #dddddd;
+	text-align: center;
+}
+
+body {
+	margin: 0px;
+}
